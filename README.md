@@ -58,16 +58,16 @@ https://umaparu.github.io/HoriseonWebsiteOptimization/
 
 ### Screenshots
 
-####The home page of Horiseon website
+The home page of Horiseon website
 ![The home page of Horiseon website .](Assets/01-deployed-home.png)
 
-####Search Engine Optimization Link
+Search Engine Optimization Link
 ![Search Engine Optimization Link .](Assets/02-search-engine-optimization.png)
 
-####Online Reputation Management
+Online Reputation Management
 ![Online Reputation Management .](Assets/03-online-reputation-management.png)
 
-####Social Media Marketing
+Social Media Marketing
 ![Social Media Marketing.](Assets/04-social-media-marketing.png)
 
 ---
