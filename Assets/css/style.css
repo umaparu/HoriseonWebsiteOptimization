@@ -1,0 +1,237 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    /* Page style */
+}
+
+body {
+    background-color: #d9dcd6;
+    /* Set body background color */
+}
+
+.header {
+    padding: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+    /* Set header font and color */
+}
+
+.header h1 {
+    display: inline-block;
+    font-size: 40px;
+    /* Set heading h1  style */
+}
+
+.header h1 .seo {
+    color: #d9dcd6;
+    /* Set header SEO style*/
+}
+
+.header div {
+    padding-top: 10px;
+    margin-right: 10px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 14px;
+    /* Set header div style */
+}
+
+.header div ul {
+    list-style-type: none;
+    /* Style for div Un-ordered list */
+}
+
+.header div ul li {
+    display: inline-block;
+    margin-left: 25px;
+    /* Style for List item in Un-ordered list */
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+    /* Style for address link */
+}
+
+p {
+    font-size: 13px;
+     display: inline;
+     /* Style for paragraph */
+}
+
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+    /* Style for class hero */
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+    /* Style for class float-left */
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+    /* Style for class float-right */
+}
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 15px;
+    /* Style for class content */
+}
+
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+    /* Style for class benefits */
+}
+
+.benefit-lead {
+    margin-bottom: 32px;
+    color: #ffffff;
+    /* Style for class benefit-lead */
+}
+
+.benefit-brand {
+    margin-bottom: 32px;
+    color: #ffffff;
+    /* Style for class benefit-brand */
+}
+
+.benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+    /* Style for class benefit-cost */
+}
+
+.benefit-lead h3 {
+    margin-bottom: 10px;
+    text-align: center;
+    /* Style for class benefit-lead heading3 */
+}
+
+.benefit-brand h3 {
+    margin-bottom: 10px;
+    text-align: center;
+    /* Style for class benefit-brand heading3 */
+}
+
+.benefit-cost h3 {
+    margin-bottom: 10px;
+    text-align: center;
+    /* Style for class benefit-cost heading3 */
+}
+
+.benefit-lead img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+    /* Style for class benefit-lead image */
+}
+
+.benefit-brand img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+    /* Style for class benefit-brand image */
+}
+
+.benefit-cost img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+    /* Style for class benefit-cost image */
+}
+
+.search-engine-optimization {
+    margin-bottom: 10px;
+    padding: 15px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+    /* Style for class search-engine-optimization */
+}
+
+.online-reputation-management {
+    margin-bottom: 10px;
+    padding: 15px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+    /* Style for class online-reputation-maanagement */
+}
+
+.social-media-marketing {
+    margin-bottom: 10px;
+    padding: 15px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+    /* Style for class social-media-marketing */
+}
+
+.search-engine-optimization img {
+    max-height: 200px;
+    /* Style for class search-engine-optimization image */
+}
+
+.online-reputation-management img {
+    max-height: 200px;
+    /* Style for class online-reputation-maanagement image */  
+}
+
+.social-media-marketing img {
+    max-height: 200px;
+    /* Style for class social-media-marketing image */
+}
+
+.search-engine-optimization h2 {
+    margin-bottom: 15px;
+    font-size: 28px;
+    /* Style for class search-engine-optimization heading2 */  
+}
+
+.online-reputation-management h2 {
+    margin-bottom: 15px;
+    font-size: 28px;
+    /* Style for class online-reputation-maanagement heading2 */  
+}
+
+.social-media-marketing h2 {
+    margin-bottom: 15px;
+    font-size: 28px;
+    /* Style for class social-media-marketing heading2 */  
+}
+
+
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    /* Style for footer */
+}
+
+.footer h2 {
+    font-size: 20px;
+    /* Set font size for footer heading */
+}
